@@ -20,8 +20,8 @@ The agent was trained on 4 environments:
 Hyperparameters:
 1. 
  
-#Simulation -
-![20230317010741](https://user-images.githubusercontent.com/109021179/225734665-449649ff-53bf-47be-bdc5-6cfcf90efb10.gif)
+# Simulation -
+<img src ="![20230317010741](https://user-images.githubusercontent.com/109021179/225734665-449649ff-53bf-47be-bdc5-6cfcf90efb10.gif"
 width=50% height=50%>
 ## Sarsa 
 ![Figure_1](https://user-images.githubusercontent.com/109021179/225737934-7a361feb-fec9-44b2-bd32-c63783edea28.png)
