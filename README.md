@@ -22,7 +22,7 @@ Hyperparameters:
  
 #Simulation -
 ![20230317010741](https://user-images.githubusercontent.com/109021179/225734665-449649ff-53bf-47be-bdc5-6cfcf90efb10.gif)
-
+width=50% height=50%>
 ## Sarsa 
 ![Figure_1](https://user-images.githubusercontent.com/109021179/225737934-7a361feb-fec9-44b2-bd32-c63783edea28.png)
 ![3](https://user-images.githubusercontent.com/109021179/225738038-0608c346-c090-4899-b7db-7caeb7ce7661.png)
