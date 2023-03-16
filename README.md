@@ -21,7 +21,7 @@ Hyperparameters:
 1. 
  
 # Simulation -
-<img src ="![20230317010741](https://user-images.githubusercontent.com/109021179/225734665-449649ff-53bf-47be-bdc5-6cfcf90efb10.gif"
+<img src ="![20230317010741](https://user-images.githubusercontent.com/109021179/225739855-65351b34-8faa-4b84-88d1-83f7bab727e7.gif)"
 width=50% height=50%>
 ## Sarsa 
 ![Figure_1](https://user-images.githubusercontent.com/109021179/225737934-7a361feb-fec9-44b2-bd32-c63783edea28.png)
