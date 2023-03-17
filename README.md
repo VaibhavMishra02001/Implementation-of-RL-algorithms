@@ -50,7 +50,8 @@ Hyperparameters:
 ![Figure_1](https://user-images.githubusercontent.com/109021179/225897995-b0a464c5-9738-453d-a7a6-8c39d9404fd8.png)
 
 ## Q-Learning
-![2](https://user-images.githubusercontent.com/109021179/225898331-e6030a11-8674-4bd8-ad3a-f72232b9c5e9.png)
+![2](https://user-images.githubusercontent.com/109021179/225899132-52ce2dde-b16f-4652-b8a4-a972f86f5a32.png)
+
 ![Figure_1](https://user-images.githubusercontent.com/109021179/225898400-4038c8c1-666f-46c4-aa39-d66a9c8c88f5.png)
 
 ## Comparison
