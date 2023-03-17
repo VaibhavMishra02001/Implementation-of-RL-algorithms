@@ -20,7 +20,7 @@ The agent was trained on 4 environments:
 Hyperparameters:
 1. 
  
-# Simulation -
+## Simulation -
 ![20230317010741](https://user-images.githubusercontent.com/109021179/225740672-c190c049-6d3c-4bdb-89eb-385cef883bbe.gif)
 
 ## Sarsa 
@@ -38,6 +38,24 @@ Hyperparameters:
 ![2](https://user-images.githubusercontent.com/109021179/225894395-0668564d-6a84-4d4a-bc09-68690ac1c307.png)
 
 ![Figure_1](https://user-images.githubusercontent.com/109021179/225894302-d72ad635-37e7-4980-a8df-b8db5e7b03fb.png)
+
+# 8X8 Empty Room
+
+## Simulation
+## Sarsa
+![2](https://user-images.githubusercontent.com/109021179/225897340-c8ebe377-f3ea-4fab-a3a7-6e133167f211.png)
+![Figure_1](https://user-images.githubusercontent.com/109021179/225897656-38c26c04-9a7b-4307-bafe-6334c729e120.png)
+## Sarsa lambda
+![2](https://user-images.githubusercontent.com/109021179/225898124-f15d632e-38af-4a12-8b1d-5edce4ebac45.png)
+![Figure_1](https://user-images.githubusercontent.com/109021179/225897995-b0a464c5-9738-453d-a7a6-8c39d9404fd8.png)
+
+## Q-Learning
+![2](https://user-images.githubusercontent.com/109021179/225898331-e6030a11-8674-4bd8-ad3a-f72232b9c5e9.png)
+![Figure_1](https://user-images.githubusercontent.com/109021179/225898400-4038c8c1-666f-46c4-aa39-d66a9c8c88f5.png)
+
+## Comparison
+![3](https://user-images.githubusercontent.com/109021179/225898613-3f42cd1d-72f7-4957-b800-c01162b2b5c3.png)
+![4](https://user-images.githubusercontent.com/109021179/225898677-82e1ac7b-43a1-4ae3-9334-8a4e248e99f6.png)
 
 
 
