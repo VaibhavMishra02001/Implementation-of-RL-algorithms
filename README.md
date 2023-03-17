@@ -27,6 +27,12 @@ Hyperparameters:
 ![2](https://user-images.githubusercontent.com/109021179/225892772-2bd66be9-2d5b-42bb-8d4b-95cd336c5dc0.png)
 ![Figure_1](https://user-images.githubusercontent.com/109021179/225892794-a002fb91-fd8b-46c8-b98b-319b07ef198a.png)
 ## Sarsa lambda
+![Figure_1](https://user-images.githubusercontent.com/109021179/225893486-8dc19a07-4042-4c33-80fd-ba95669fa585.png)
+
 ![2](https://user-images.githubusercontent.com/109021179/225892980-0232a28c-359a-4a56-9634-ae98fa75036f.png)
 ## Q-Learning
+
 ![Figure_1](https://user-images.githubusercontent.com/109021179/225893145-add080e1-27be-4bba-85e1-c4df0daa5085.png)
+
+
+
