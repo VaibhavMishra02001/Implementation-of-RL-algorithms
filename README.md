@@ -25,7 +25,7 @@ Hyperparameters:
 
 ## Sarsa
 
-<img src = "![2](https://user-images.githubusercontent.com/109021179/225892772-2bd66be9-2d5b-42bb-8d4b-95cd336c5dc0.png)"width=50% height=50%>
+<img src = "(https://user-images.githubusercontent.com/109021179/225892772-2bd66be9-2d5b-42bb-8d4b-95cd336c5dc0.png)"width=50% height=50%>
 ![Figure_1](https://user-images.githubusercontent.com/109021179/225892794-a002fb91-fd8b-46c8-b98b-319b07ef198a.png)
 ## Sarsa lambda
 ![Figure_1](https://user-images.githubusercontent.com/109021179/225893486-8dc19a07-4042-4c33-80fd-ba95669fa585.png)
