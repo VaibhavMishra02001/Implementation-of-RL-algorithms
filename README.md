@@ -14,6 +14,26 @@ The agent was trained on 4 environments:
 
 1.6x6 Empty room
 2.8x8 Empty room
+## Observation Space
+For discrete observation, we use agent_pos, which returns the grid number at which the agent is present and agent_dir which returns the the direction at which the agent is pointing.
+
+## Action Space 
+0	:Turn Left
+1	:Turn Right
+2	:Move Forward
+
+## Reward Function 
+Reward is 1 when agent reaches goal, elswhere 0.
+
+## Hyperparameters
+* Gamma = 0.9
+* Alpha = 0.2
+* Exploration 
+    epsilon = epsilon/1.1
+* Training Episodes = 150  
+   
+
+
 
 # 6x6 Empty Room 
 
