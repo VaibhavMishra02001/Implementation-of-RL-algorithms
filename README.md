@@ -33,6 +33,14 @@ Hyperparameters:
 ## Q-Learning
 
 ![Figure_1](https://user-images.githubusercontent.com/109021179/225893145-add080e1-27be-4bba-85e1-c4df0daa5085.png)
+![2](https://user-images.githubusercontent.com/109021179/225894014-8c246efb-c8b1-4206-8e27-1389d5a57ed5.png)
+
+Comparison of algorithms:
+![2](https://user-images.githubusercontent.com/109021179/225894395-0668564d-6a84-4d4a-bc09-68690ac1c307.png)
+
+![Figure_1](https://user-images.githubusercontent.com/109021179/225894302-d72ad635-37e7-4980-a8df-b8db5e7b03fb.png)
+
+
 
 
 
