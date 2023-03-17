@@ -18,9 +18,9 @@ The agent was trained on 4 environments:
 For discrete observation, we use agent_pos, which returns the grid number at which the agent is present and agent_dir which returns the the direction at which the agent is pointing.
 
 ## Action Space 
-0	:Turn Left
-1	:Turn Right
-2	:Move Forward
+* 0	:Turn Left
+* 1	:Turn Right
+* 2	:Move Forward
 
 ## Reward Function 
 Reward is 1 when agent reaches goal, elswhere 0.
