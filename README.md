@@ -61,6 +61,15 @@ Hyperparameters:
 ![3](https://user-images.githubusercontent.com/109021179/225898613-3f42cd1d-72f7-4957-b800-c01162b2b5c3.png)
 ![4](https://user-images.githubusercontent.com/109021179/225898677-82e1ac7b-43a1-4ae3-9334-8a4e248e99f6.png)
 
+## Vatriation on changing Learning Rate 
+![6](https://user-images.githubusercontent.com/109021179/225971816-e4ab977f-1974-4d73-b742-77231b4d5ecb.png)
+![5](https://user-images.githubusercontent.com/109021179/225971942-63151659-30ce-4d02-b71b-554f4b688c11.png)
+
+## Variation with changing Discount Factor(gamma)
+![7](https://user-images.githubusercontent.com/109021179/225972153-83cd81d5-9ba1-4a19-a7b1-2c8b7988a253.png)
+![8](https://user-images.githubusercontent.com/109021179/225972204-9d11ea60-1082-4fb2-a254-ecc1477455b8.png)
+
+
 
 
 
