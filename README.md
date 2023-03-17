@@ -42,6 +42,8 @@ Hyperparameters:
 # 8X8 Empty Room
 
 ## Simulation
+![20230316233932](https://user-images.githubusercontent.com/109021179/225906097-33634596-6e56-412b-9bee-ab7649075a96.gif)
+
 ## Sarsa
 ![2](https://user-images.githubusercontent.com/109021179/225897340-c8ebe377-f3ea-4fab-a3a7-6e133167f211.png)
 ![Figure_1](https://user-images.githubusercontent.com/109021179/225897656-38c26c04-9a7b-4307-bafe-6334c729e120.png)
